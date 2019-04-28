@@ -7,3 +7,5 @@ for i in range(steps):
     position +=step
     walk.append(position)
 plt.plot(walk[:100])
+
+print("fefw11111")
