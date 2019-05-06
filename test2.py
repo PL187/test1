@@ -17,3 +17,4 @@ with tf.Session() as sess:
     print(result2)
 
 print("fwfwfw")
+print("ddwdwdwdwd")
