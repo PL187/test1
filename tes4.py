@@ -12,3 +12,4 @@ def add_layer(inputs, in_size, out_size, activation_function=None):
     return outputs
 
 
+print("fwfwfwfwwwww")
